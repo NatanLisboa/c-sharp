@@ -1,0 +1,13 @@
+C:\Users\Natan\source\repos\ValorPi\ValorPi\bin\Debug\netcoreapp3.1\ValorPi.exe
+C:\Users\Natan\source\repos\ValorPi\ValorPi\bin\Debug\netcoreapp3.1\ValorPi.deps.json
+C:\Users\Natan\source\repos\ValorPi\ValorPi\bin\Debug\netcoreapp3.1\ValorPi.runtimeconfig.json
+C:\Users\Natan\source\repos\ValorPi\ValorPi\bin\Debug\netcoreapp3.1\ValorPi.runtimeconfig.dev.json
+C:\Users\Natan\source\repos\ValorPi\ValorPi\bin\Debug\netcoreapp3.1\ValorPi.dll
+C:\Users\Natan\source\repos\ValorPi\ValorPi\bin\Debug\netcoreapp3.1\ValorPi.pdb
+C:\Users\Natan\source\repos\ValorPi\ValorPi\obj\Debug\netcoreapp3.1\ValorPi.csprojAssemblyReference.cache
+C:\Users\Natan\source\repos\ValorPi\ValorPi\obj\Debug\netcoreapp3.1\ValorPi.AssemblyInfoInputs.cache
+C:\Users\Natan\source\repos\ValorPi\ValorPi\obj\Debug\netcoreapp3.1\ValorPi.AssemblyInfo.cs
+C:\Users\Natan\source\repos\ValorPi\ValorPi\obj\Debug\netcoreapp3.1\ValorPi.csproj.CoreCompileInputs.cache
+C:\Users\Natan\source\repos\ValorPi\ValorPi\obj\Debug\netcoreapp3.1\ValorPi.dll
+C:\Users\Natan\source\repos\ValorPi\ValorPi\obj\Debug\netcoreapp3.1\ValorPi.pdb
+C:\Users\Natan\source\repos\ValorPi\ValorPi\obj\Debug\netcoreapp3.1\ValorPi.genruntimeconfig.cache
